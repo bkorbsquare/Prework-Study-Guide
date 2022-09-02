@@ -1,17 +1,13 @@
-# <Prework Study Guide>
+# Prework Study Guide Webpage
 
-## Generated a webpage that included examples of html, css, and javascript, with notes on each. 
+## Description
 
-My motivation was to finish the pre work portion of the coding bootcamp successfully.
-This site allows me to sandbox new techniques and ideas. 
-I learned about VS Code and Github functionality, as well as gitbash commands. 
+Generated a webpage that included examples of html, css, and javascript, with notes on each.
 
 ## Usage
 
-Reference this page to review notes, and to check out which concepts I’m currently working on. 
+Reference this page to review notes, and to check out which concepts I’m currently working on.
 
 ## License
 
-Please refer to the license in the repo.
-
----
+Please refer to the LICENSE in the repo.
